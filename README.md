@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/cenizas-de-deseo/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Cenizas de deseo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cenizas-de-deseo/) |
+| **Get License** | [Get License For Cenizas de deseo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cenizas-de-deseo/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Nena, tus ojos me queman, cenizas de deseo
+> Dejaste tu fuego en mi piel y ahora me mareo
+> Buscándote en la disco, baby, yo no titubeo
+> Tú eres la reina de la noche, mi único trofeo
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)

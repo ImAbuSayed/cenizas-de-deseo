@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Cenizas de deseo
+
+This log tracks the cryptographic history and versioning for the song **Cenizas de deseo** (cenizas-de-deseo).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-18T19:28:47.876665 | `v1` | `0b08721ccd5977586be09870814059638a4bd0d962914094608a53169f55a188` | `43d18895169f221e66ead0287357831f2c71ca6a60c291f7327504ac44b2432f` | `2026-06-18_cenizas-de-deseo-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

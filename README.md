@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `0b08721ccd5977586be09870814059638a4bd0d962914094608a53169f55a188` |
 | **Timestamp** | June 18, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
